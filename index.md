@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[Link to another project](https://kaio6fellipe.github.io/NDE/).
 
 There should be whitespace between paragraphs.
 
