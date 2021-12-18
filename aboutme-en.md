@@ -1,9 +1,3 @@
-<style>
-.skills {
-    text-align: left
-}
-</style>
-
 ## **Kaio Fellipe**
 > #### IT Manager
 > #### Security Analyst
@@ -25,8 +19,6 @@
 
 5 years of experience in systems and technology analysis, working in the areas of Management, Infrastructure, Security and IT Services. Experience in Business Intelligence, CRM, BPM, ERP implementation, ITIL, Office 365 and Infrastructure/Security standardization, following the best market practices. Experience in a national company in the Agribusiness segment. I have advanced English for reading/comprehension and advanced knowledge in firewalls, computer networks, SQL, ETL processes, Excel and intermediate knowledge in  Windows/Linux servers. I am currently studying Information Security (Red and Blue Team), Python and MongoDB daily, for development of personal and professional projects.
 
-<div class="skills">
-
 ---
 | **Skills summary** | |
 | ---------------------- |-|
@@ -47,8 +39,6 @@
 | NoSQL databases | Intermediate |
 | ETL process | Intermediate |
 | Business Intelligence | Advanced |
-
-</div>
 
 ---
 ### **Languages**
