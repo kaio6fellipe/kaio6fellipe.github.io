@@ -57,7 +57,7 @@
 
 ---
 ### **Work experience**
-> ### **[Safra Rica](https://www.linkedin.com/company/safra-rica-comercio-e-representa%C3%A7%C3%B5es-de-produtos-agr%C3%ADcolas/mycompany/)** (5+ years)
+> ### **[Safra Rica](https://www.safrarica.com.br/)** (5+ years)
 > - **IT Analyst** (Jul. 2019 - Current)
 >   - Activities
 >   - Activities
@@ -76,11 +76,11 @@
 
 ---
 ### **Educational history**
-> ### **[IGTI](https://www.linkedin.com/school/igti/)** (2019 - 2020)
+> ### **[IGTI](https://www.igti.com.br/)** (2019 - 2020)
 > - **MBA in IT Management**
-> ### **[Senac](https://www.linkedin.com/school/centrouniversitariosenac/)** (2018 - 2020)
+> ### **[Senac](https://www.sp.senac.br/)** (2018 - 2020)
 > - **Post graduate degree in Information Security**
-> ### **[Unifafibe](https://www.linkedin.com/school/unifafibe/)** (2013 - 2017)
+> ### **[Unifafibe](https://unifafibe.com.br/)** (2013 - 2017)
 > - **Degree in Information Systems**
 
 ---
