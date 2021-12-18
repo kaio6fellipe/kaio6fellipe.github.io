@@ -20,25 +20,26 @@
 5 years of experience in systems and technology analysis, working in the areas of Management, Infrastructure, Security and IT Services. Experience in Business Intelligence, CRM, BPM, ERP implementation, ITIL, Office 365 and Infrastructure/Security standardization, following the best market practices. Experience in a national company in the Agribusiness segment. I have advanced English for reading/comprehension and advanced knowledge in firewalls, computer networks, SQL, ETL processes, Excel and intermediate knowledge in  Windows/Linux servers. I am currently studying Information Security (Red and Blue Team), Python and MongoDB daily, for development of personal and professional projects.
 
 ---
-| **Skills summary** | Level |
-|:-----------------------|:-|
-| Cyber Security | Advanced |
-| Pentest | Intermediate |
-| SQL | Expert |
-| Python | Advanced |
-| Project Management | Intermediate |
-| Infrastructure Management | Advanced |
-| IT Management | Advanced |
-| Firewalls | Advanced |
-| Computer Networks | Advanced |
-| API REST | Intermediate |
-| Linux servers | Intermediate |
-| Windows servers | Intermediate |
-| Virtualization | Intermediate |
-| SQL databases | Advanced |
-| NoSQL databases | Intermediate |
-| ETL process | Intermediate |
-| Business Intelligence | Advanced |
+
+| **Skills summary**        | Level        |
+|:--------------------------|:-------------|
+| Cyber Security            | Advanced     |
+| Pentest                   | Intermediate |
+| SQL                       | Expert       |
+| Python                    | Advanced     |
+| Project Management        | Intermediate |
+| Infrastructure Management | Advanced     |
+| IT Management             | Advanced     |
+| Firewalls                 | Advanced     |
+| Computer Networks         | Advanced     |
+| API REST                  | Intermediate |
+| Linux servers             | Intermediate |
+| Windows servers           | Intermediate |
+| Virtualization            | Intermediate |
+| SQL databases             | Advanced     |
+| NoSQL databases           | Intermediate |
+| ETL process               | Intermediate |
+| Business Intelligence     | Advanced     |
 
 ---
 ### **Languages**
