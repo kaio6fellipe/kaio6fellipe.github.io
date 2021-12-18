@@ -68,8 +68,10 @@
 ### **Educational history**
 > ### **[IGTI](https://www.igti.com.br/)** (2019 - 2020)
 > - **MBA in IT Management**
+> >
 > ### **[Senac](https://www.sp.senac.br/)** (2018 - 2020)
 > - **Post graduate degree in Information Security**
+> >
 > ### **[Unifafibe](https://unifafibe.com.br/)** (2013 - 2017)
 > - **Degree in Information Systems**
 
