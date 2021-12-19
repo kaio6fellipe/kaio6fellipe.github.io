@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### **Respositories**
+### **Repositories**
 - [Tor Connection socket with Python](https://kaio6fellipe.github.io/tor/)
 - [Automating and optimizating Nmap with Python](https://kaio6fellipe.github.io/nmap-python/)
 - [Natural Language Processing for pentest (Development)]()
