@@ -10,6 +10,7 @@ layout: default
 - [Enumerating FTP with Python (Development)]()
 - [Using Hydra with Python (Development)]()
 - [Finding and downloading CVEs scripts with Python (Development)]()
+- [MongoDB Connection Layer with Python (Development)]()
 
 ### **Certifications in progress**
 - [Network Defense Essentials](https://kaio6fellipe.github.io/NDE/)
