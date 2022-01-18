@@ -21,6 +21,6 @@ layout: default
 - [AWS SysOps Administrator?]()
 - [Certified Ethical Hacker (CEH)?]()
 - [AWS Certified Security?]()
-- [Offesive Security Certified Professional (OSCP)?]()
+- [Offensive Security Certified Professional (OSCP)?]()
 
 ### **[About me](https://kaio6fellipe.github.io/resume)**
