@@ -13,7 +13,14 @@ layout: default
 - [MongoDB Connection Layer with Python (Development)]()
 
 ### **Certifications in progress**
-- [Network Defense Essentials](https://kaio6fellipe.github.io/NDE/)
+- [Network Defense Essentials (Currently)](https://kaio6fellipe.github.io/NDE/)
 - [Certified Network Defender](https://kaio6fellipe.github.io/CND/)
+
+### **Certifications in the future?**
+- [LPIC-1?]()
+- [AWS SysOps Administrator?]()
+- [Certified Ethical Hacker (CEH)?]()
+- [AWS Certified Security?]()
+- [Offesive Security Certified Professional (OSCP)?]()
 
 ### **[About me](https://kaio6fellipe.github.io/resume)**
