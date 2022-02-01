@@ -6,7 +6,7 @@ layout: default
 - [Tor Connection socket with Python](https://kaio6fellipe.github.io/tor/)
 - [Automating and optimizating Nmap with Python](https://kaio6fellipe.github.io/nmap-python/)
 - [Enumerating SSH with Python](https://kaio6fellipe.github.io/ssh-enum/)
-- [Natural Language Processing for pentest using spaCy (Development)]()
+- [Natural Language Processing for pentest using spaCy](https://kaio6fellipe.github.io/nlp-for-pentest/)
 - [Enumerating FTP with Python (Development)]()
 - [Using Hydra with Python (Development)]()
 - [Finding and downloading CVEs scripts with Python (Development)]()
