@@ -15,9 +15,9 @@ layout: default
 ### **Certifications in progress**
 - [Network Defense Essentials (Currently)](https://kaio6fellipe.github.io/NDE/)
 - [Certified Network Defender (Next)](https://kaio6fellipe.github.io/CND/)
+- [LPIC-1 (Next)](https://kaio6fellipe.github.io/LPIC-1/)
 
 ### **Certifications in the future?**
-- [LPIC-1?]()
 - [AWS SysOps Administrator?]()
 - [Certified Ethical Hacker (CEH)?]()
 - [AWS Certified Security?]()
