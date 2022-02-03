@@ -1,0 +1,3 @@
+[submodule "content/NDE"]
+	path = content/NDE
+	url = https://github.com/kaio6fellipe/NDE.git
