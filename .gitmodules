@@ -1,3 +1,21 @@
 [submodule "content/NDE"]
 	path = content/NDE
 	url = https://github.com/kaio6fellipe/NDE.git
+[submodule "content/tor"]
+	path = content/tor
+	url = https://github.com/kaio6fellipe/tor.git
+[submodule "content/nmap-python"]
+	path = content/nmap-python
+	url = https://github.com/kaio6fellipe/nmap-python.git
+[submodule "content/nlp-for-pentest"]
+	path = content/nlp-for-pentest
+	url = https://github.com/kaio6fellipe/nlp-for-pentest.git
+[submodule "content/ssh-enum"]
+	path = content/ssh-enum
+	url = https://github.com/kaio6fellipe/ssh-enum.git
+[submodule "content/resume"]
+	path = content/resume
+	url = https://github.com/kaio6fellipe/resume.git
+[submodule "content/LPIC-1"]
+	path = content/LPIC-1
+	url = https://github.com/kaio6fellipe/LPIC-1.git
