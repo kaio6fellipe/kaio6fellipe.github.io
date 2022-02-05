@@ -23,4 +23,4 @@ layout: default
 - [AWS Certified Security?]()
 - [Offensive Security Certified Professional (OSCP)?]()
 
-### **[About me](https://kaio6fellipe.github.io/resume)**
+### **[About me](./content/resume/)**
