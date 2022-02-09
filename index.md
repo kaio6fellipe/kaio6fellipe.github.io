@@ -14,7 +14,7 @@ layout: default
 
 ### **Certifications in progress**
 - [Network Defense Essentials (Currently)](https://kaio6fellipe.github.io/NDE/)
-- [Certified Network Defender (Next)]()
+- [Certified Network Defender (Currently in a Private Repository)]()
 - [LPIC-1 (Next)](https://kaio6fellipe.github.io/LPIC-1/)
 
 ### **Certifications in the future?**
